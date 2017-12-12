@@ -2,10 +2,9 @@ const pokeRouter = require('express').Router()
 const {db, Pokemon} = require('../models')
 
 //GET
+//all the pokemans
+//one pokeman
 
-//POST
 
-//PUT
 
-//DELETE
 module.exports = pokeRouter
